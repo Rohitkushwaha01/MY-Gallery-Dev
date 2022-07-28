@@ -10,11 +10,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://rohitkushwaha01.github.io/MY-Gallery-Dev/">
+    <a href="https://rohitkushwaha01.github.io/My-Gallery-Dev/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Rohitkushwaha01/MY-Gallery-Dev">
+    <a href="https://github.com/Rohitkushwaha01/My-Gallery-Dev">
       Solution
     </a>
     <span> | </span>
